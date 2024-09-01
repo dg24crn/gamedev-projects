@@ -1,0 +1,17 @@
+POKEMON ANIMATIONS:
+
+-Samukomini
+-FastBit (Adaptación)
+
+UNREAL TIME SCRIPT:
+
+-FL
+
+FAST ENGINE + INTERFACES:
+
+-FastBit
+
+ACHIEVEMENT SYSTEM:
+
+-Mega Mewthree
+-Vendily (Update) v17
